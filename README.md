@@ -91,7 +91,7 @@ To make quality education accessible to everyone, everywhere through innovative 
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/01Anshuman/Advance_lms.git
+   git clone https://github.com/CDT-PRATEEK/LMS-modern-UI.git
    cd Advance_lms
    \`\`\`
 
@@ -173,7 +173,7 @@ Advance_lms/
       <td align="center">
         <img src="public/images/prateek.jpg" width="100px;" alt="Prateek"/><br />
         <sub><b>Prateek</b></sub><br />
-        <sub>DevOps Engineer</sub>
+        <sub>Python Developer</sub>
       </td>
     </tr>
   </table>
